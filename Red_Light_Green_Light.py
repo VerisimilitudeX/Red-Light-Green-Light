@@ -1,9 +1,3 @@
-"""
-LESSON: 2.5 - Randomness & Libraries
-TECHNIQUE 2: Weighted Choice
-PRACTICE 1
-"""
-
 # Import the random library
 import random
 choice1 = random.randint(1, 2)
@@ -40,7 +34,3 @@ while distance > 0:
             distance -= 2
 
 print("You made it!")
-
-
-# Turn in your Coding Exercise.
-
